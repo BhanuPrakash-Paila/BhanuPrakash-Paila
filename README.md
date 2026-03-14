@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Paila</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprakash-paila&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprakash-paila" /> </p>
 
-- 🔭 I’m currently working on **IP Address Tracker**
+- 🔭 I’m currently working on **Insurance Platform**
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **pailabhanuprakas@gmail.com**
+- 📫 How to reach me **pailabhanuprakash2276@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGPBKKiQt8/El8imNlATw_-NZKX7Ofrmw/view?utm_content=DAGPBKKiQt8&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPBKKiQt8/El8imNlATw_-NZKX7Ofrmw/view?utm_content=DAGPBKKiQt8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
